@@ -1,4 +1,4 @@
-# S-411 – Sea Ice Information (S-100 Product Specification Support Repository)
+# S-411 – Dynamic Ice Information (S-100 Product Specification Support Repository)
 
 ## Overview
 
