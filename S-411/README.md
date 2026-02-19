@@ -30,7 +30,9 @@ This repository may contain:
 
 ⚠️ **Note:** Official normative versions of S-411 are maintained through the relevant governance process (IHO/WMO coordination). This repository does not replace formal publication channels.
 
----
+## Version Update
+
+- The current version is Ed. 1.2.1.
 
 ## Repository Structure
 
